@@ -23,15 +23,18 @@
 
 （感兴趣的朋友可以跳转 [github/lvy010/ThoughtMap](https://github.com/lvy010/ThoughtMap)，所有的学习笔记都是开源的，详见仓库 README）
 
-
 有了自己的框架之后刷题大脑就可以自动归档，可以参考下面分类
 
-### 专栏概览
+- [100道典型例题](https://blog.csdn.net/2301_80171004/category_12905665.html)
+- [递归，搜索与回溯](https://blog.csdn.net/2301_80171004/category_12921893.html)
+- [动态规划](https://blog.csdn.net/2301_80171004/category_12931746.html)
+- [贪心算法](https://blog.csdn.net/2301_80171004/category_12954242.html)
 
 下面是概览的标题 点击就可以跳转到专栏链接，大家可以做参考来搭建自己的框架
 
 #### 100道典型例题
-### [Lc优选算法_100](https://blog.csdn.net/2301_80171004/category_12905665.html)
+
+[Lc优选算法_100](https://blog.csdn.net/2301_80171004/category_12905665.html)
 
 1. [\[Lc\(1\)双指针_1\] 移动零 | 复写零 | 快乐数](https://lvynote.blog.csdn.net/article/details/145915942)
 2. [\[Lc\(1\)双指针_3\] 双指针 | 三数 | 四数之和](https://lvynote.blog.csdn.net/article/details/145950432)
@@ -55,18 +58,15 @@
 20. [\[Lc18_BFS拓扑排序\] 邻接表 | 课程表I II](https://lvynote.blog.csdn.net/article/details/146483372)
 21. [\[Lc18_拓扑排序\] string+queue+map | 火星字典](https://lvynote.blog.csdn.net/article/details/146508282)
 
-
 #### 递归，搜索与回溯
 
 - 搜索是递归中的一个分支
-
 - 回溯是搜索中的一个分支
-
 - 因此我们学习顺序是递归、搜索、回溯。
 
 总结详见：[\[Lc_1 递归\] 递归，搜索与回溯总结 | 详解汉诺塔问题](https://lvynote.blog.csdn.net/article/details/146394374)
 
-### [Lc递归，搜索与回溯](https://blog.csdn.net/2301_80171004/category_12921893.html)
+[Lc递归，搜索与回溯](https://blog.csdn.net/2301_80171004/category_12921893.html)
 
 1. [\[Lc_1 递归\] 递归，搜索与回溯总结 | 详解汉诺塔问题](https://lvynote.blog.csdn.net/article/details/146394374)
 2. [\[Lc_1 递归_2\] 合并两个有序链表 | 反转链表 | 两两交换链表中的节点 | Pow\(x, n\)-快速幂](https://lvynote.blog.csdn.net/article/details/146417585)
@@ -92,7 +92,7 @@
 
 0基础可以先通过[\[dp_0\] 第 N 个泰波那契数 | 三步问题](https://lvynote.blog.csdn.net/article/details/146769412)建立直觉
 
-### [动态规划](https://blog.csdn.net/2301_80171004/category_12931746.html)
+[动态规划](https://blog.csdn.net/2301_80171004/category_12931746.html)
 
 1. [\[dp_0\] 第 N 个泰波那契数 | 三步问题](https://lvynote.blog.csdn.net/article/details/146769412)
 2. [\[dp_1\] 使用最小花费爬楼梯 | 解码方法 | 虚拟dp\[0\]=0](https://lvynote.blog.csdn.net/article/details/146959182)
@@ -118,7 +118,6 @@
 22. [\[dp22_二维背包\] 一和零 | 盈利计划](https://lvynote.blog.csdn.net/article/details/147366232)
 23. [\[dp23_似包非包\] 组合总和 Ⅳ | 不同的二叉搜索树 | 卡特兰数](https://lvynote.blog.csdn.net/article/details/147374698)
 
-
 > tips: 多刷题多体会~
 
 #### 贪心算法
@@ -128,9 +127,7 @@
 贪心策略：解决问题的策略( 局部最优 —> 全局最优)。
 
 - 把解决问题的过程分为若干步；
-
 - 解决每一步的时候，都选择当前看起来 “最优的” 解法；
-
 - “希望” 得到全局最优解。
 
 遇到不会的贪心题，很正常，把心态放平。
@@ -140,9 +137,7 @@
 
 可以从[\[贪心_1\] 介绍 | 柠檬水找零](https://lvynote.blog.csdn.net/article/details/147386582)等题目入手，体会贪心策略如何落地。
 
-### [贪心算法](https://blog.csdn.net/2301_80171004/category_12954242.html)
-
-- [贪心](https://lvynote.blog.csdn.net/article/details/153514939)
+[贪心算法](https://blog.csdn.net/2301_80171004/category_12954242.html)
 
 1. [\[贪心_1\] 介绍 | 柠檬水找零](https://lvynote.blog.csdn.net/article/details/147386582)
 2. [\[贪心_2\] \(含证明\)将数组和减半的最少操作次数 | 最大数](https://lvynote.blog.csdn.net/article/details/147398154)
@@ -154,30 +149,25 @@
 8. [\[贪心_8\] 跳跃游戏 | 单调递增的数字 | 坏了的计算器](https://lvynote.blog.csdn.net/article/details/147528980)
 9. [\[贪心_9\] 合并区间 | 无重叠区间 | 用最少数量的箭引爆气球](https://lvynote.blog.csdn.net/article/details/147539504)
 
-
 按题型整理思路，记录解题步骤与常见坑点，形成可复用的知识框架。
 
-**笔记思路：** 可以参考这篇文章中t4数据流的中位数的梳理方法 [\[Lc14_priority_queue\] 最后一块石头重量 | 数据流中的第 K 大元素 | 前K个高频单词 | 数据流的中位数](https://lvynote.blog.csdn.net/article/details/146329248) 
+**笔记思路：** 可以参考这篇文章中t4数据流的中位数的梳理方法 [\[Lc14_priority_queue\] 最后一块石头重量 | 数据流中的第 K 大元素 | 前K个高频单词 | 数据流的中位数](https://lvynote.blog.csdn.net/article/details/146329248)
 
 > tips:记录的时候可以多思考，可能写一篇需要3-4个小时，但在之后刷题中可提效远不止3-4小时
 
 ### 好用的笔记工具
 
-- **draw.io**  
+- **draw.io**
   电脑绘图工具：写笔记的时候思考如何清晰地让别人也可以看懂，可以帮助更好地理解学习。
   示例图：
   ![draw.io 示例](./png/draw_io_test.png)
-
-- **xmind**  
+- **xmind**
   导图工具：以前几天每日一题中的区间贪心为例，可以借助导图清晰梳理题解（参考 [\[贪心_9\] 合并区间 | 无重叠区间 | 用最少数量的箭引爆气球](https://lvynote.blog.csdn.net/article/details/147539504)）。
-
-- **Goodnotes**  
-  iPad 手绘工具：多种颜色画笔，可以清晰地对下面三个部分进行写写画画。
+- **Goodnotes**iPad 手绘工具：多种颜色画笔，可以清晰地对下面三个部分进行写写画画。
 
   1. 写代码前：模拟代码，例如 [N 皇后 | 有效的数独](https://lvynote.blog.csdn.net/article/details/146631296)。
   2. 写代码后：梳理代码，以 [正则表达式匹配](https://lvynote.blog.csdn.net/article/details/147333088) 为例，提炼关键状态转移并总结心得。
-
-- **LICEcup**  
+- **LICEcup**
   录屏 gif 动图，可用于演示 [递增的三元子序列 | 最长连续递增序列 | 买卖股票的最佳时机](https://lvynote.blog.csdn.net/article/details/147457750) 等题目的贪心过程。
 
 ### 2. 定期复习
