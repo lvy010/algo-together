@@ -197,6 +197,8 @@ tips:如果没使用过 GitHub，复制仓库链接给 AI 并提问——“我�
 ### to do list
 待整理注释上传模板[png](./png/test.png)，有好的模板大家也可以在仓库中分享开源出来
 
+templates部分包含简单模板，目前由[elainafan](https://github.com/elainafan)整理并持续更新。
+
 > 欢迎大家提issue/pr: 完善题单/补充想法/提出问题/学习交流...more٩( 'ω' )و
 
 ------
