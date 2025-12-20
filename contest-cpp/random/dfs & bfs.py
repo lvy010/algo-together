@@ -1,3 +1,4 @@
+#lc2059 minimum operations to convert number
 class Solution:
 #刚拿到这题找不出什么规律，要我们求最小运算次数，加之这个数据范围很小，无权最短路...暴力... 嘶~ BFS ？！
 
