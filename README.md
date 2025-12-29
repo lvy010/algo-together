@@ -245,4 +245,4 @@ idea:周计划打卡
 -------
 附录：
 "那一天,人们回想起了这个仓库的起因,那篇被删掉的文章..."
-仓库由来：[leetcode题单分享_第一版完整的原文截图](https://github.com/lvy010/Algo-Atlas/blob/main/Share_the_original_text.md)原文因为一些原因已经不存在了，这是一份备份。
+仓库由来：[leetcode题单分享_第一版完整的原文截图](./other/Share_the_original_text.md)原文因为一些原因已经不存在了，这是一份备份。
