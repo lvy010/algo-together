@@ -231,17 +231,9 @@ idea:周计划打卡
 
 ![LLM](./png/llm.png)
 
-#### 从零开始的Mysql学习之路
-
-![MySQL](./png/mysql.png)
-
 #### 从零开始的Redis学习之路
 
 ![Redis](./png/redis.png)
-
-#### 从零开始的C++源码学习之路
-
-![C++](./png/cpp2.png)
 
 #### 从零开始的CUDA学习之路
 
