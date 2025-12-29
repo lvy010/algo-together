@@ -195,15 +195,28 @@ tips:如果没使用过 GitHub，复制仓库链接给 AI 并提问——“我�
 -----
 
 ### to do list
-待整理注释上传模板[png](./png/test.png)，有好的模板大家也可以在仓库中分享开源出来
 
-templates部分包含简单模板，目前由[elainafan](https://github.com/elainafan)整理并持续更新。
+templates部分包含各种算法模板，目前主要由[elainafan](https://github.com/elainafan)持续维护~ 好的模板大家可以在仓库中分享开源出来 共同学习进步
 
-> 欢迎大家提issue/pr: 完善题单/补充想法/提出问题/学习交流...more٩( 'ω' )و
+way:fork一份，在templates文件夹下创建自己name的子文件，就可以从0开始维护自己的算法模板啦
+
+> 欢迎大家提issue/pr: 完善题单/补充想法/提出问题/学习交流...more
+
+## Contributors
+
+Thank you to all the people who have already contributed to this repo templates！
+
+[![Contributors](https://contrib.rocks/image?repo=lvy010/leetcode)](https://github.com/lvy010/leetcode/graphs/contributors)
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lvy010/leetcode&type=Date)](https://star-history.com/#lvy010/leetcode&Date)
 
 ------
 
-idea:周计划打卡
+idea:打卡计划
 
 - 后续star数多的话，计划把这个仓库的题单做成周计划
 - 制定一个学习＆交流＆共创的协议，可以在仓库下建分支，创建自己的打卡学习时间线，每天在分支下提交自己对所刷题目的注释代码/自我复盘/笔记/写写画画/碎碎念...过段时间自己回看会发现很有趣的
