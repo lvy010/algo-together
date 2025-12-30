@@ -194,36 +194,26 @@ tips:如果没使用过 GitHub，复制仓库链接给 AI 并提问——“我�
 
 -----
 
-### to do list
+### co-creation
 
-templates部分包含各种算法模板，目前主要由[elainafan](https://github.com/elainafan)持续维护~ 好的模板大家可以在仓库中分享开源出来 共同学习进步
+好的模板大家可以在仓库中分享开源出来 共同学习进步
 
 way:fork一份，在templates文件夹下创建自己name的子文件，就可以从0开始维护自己的算法模板啦
 
-> 欢迎大家提issue/pr: 完善题单/补充想法/提出问题/学习交流...more
+templates部分包含各种算法模板，目前主要由[elainafan](https://github.com/elainafan)持续维护，欢迎大家提issue/pr/email me: 开源自己的算法模板/补充想法/提出问题/完善提单/学习交流...
+
+如果你也想为这个仓库做一些贡献，可以pr提交一些完善/模板后email me become contributors~
 
 ## Contributors
 
-Thank you to all the people who have already contributed to this repo templates！
+Thank you to all the people who have already contributed to this repo templates
 
 [![Contributors](https://contrib.rocks/image?repo=lvy010/leetcode)](https://github.com/lvy010/leetcode/graphs/contributors)
-
 
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lvy010/leetcode&type=Date)](https://star-history.com/#lvy010/leetcode&Date)
-
-------
-
-idea:打卡计划
-
-- 后续star数多的话，计划把这个仓库的题单做成周计划
-- 制定一个学习＆交流＆共创的协议，可以在仓库下建分支，创建自己的打卡学习时间线，每天在分支下提交自己对所刷题目的注释代码/自我复盘/笔记/写写画画/碎碎念...过段时间自己回看会发现很有趣的
-
-如果有机会我会尝试去创建/协助营造一个这样的学习空间，详见repo:[Openmind](https://github.com/lvy010/OpenMind)（in process）,欢迎mark
-
-**期待一切有助于学习&进步的建议与共创~可以直接提issue/email me**
 
 ------
 ## 算法之外(in process)
@@ -254,6 +244,7 @@ idea:打卡计划
 
 ... ...(more)
 
+**期待一切有助于学习&进步的建议与共创~可以直接提issue/email me**
 
 -------
 附录：
